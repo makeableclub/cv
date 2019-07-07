@@ -1,0 +1,6 @@
+20190616
+
+Lecture on OpenCV face detection:
+- Udemy course on Face Detection (Viola-Jones)
+- https://www.superdatascience.com/blogs/opencv-face-detection
+- https://docs.opencv.org/trunk/d9/df8/tutorial_root.html

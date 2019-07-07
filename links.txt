@@ -22,3 +22,11 @@ https://www.analyticsvidhya.com/blog/2018/12/introduction-face-detection-video-d
 
 
 https://thispersondoesnotexist.com/
+
+https://developers.google.com/machine-learning/crash-course/ml-intro
+
+https://cloud.google.com/automl/
+https://cloud.google.com/products/ai/
+
+
+https://docs.google.com/spreadsheets/d/1OyMNEeKdKn1IP9UCy3infKScShvGiLqIlzbOJVDP8Fw/edit?usp=sharing

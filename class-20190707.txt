@@ -1,0 +1,20 @@
+20190707
+
+Android Studio
+- Download: https://developer.android.com/studio
+- Intro: https://developer.android.com/studio/intro
+- Install: https://developer.android.com/studio/install
+
+Google ML/AI: https://ai.google, https://cloud.google.com/products/ai/
+- AutoML: https://cloud.google.com/automl/
+- AutoML Vision: https://cloud.google.com/vision/automl/docs/,
+- AudoML Video: https://cloud.google.com/video-intelligence/automl/docs/
+- ML Kit: https://firebase.google.com/docs/ml-kit
+
+Jetson Nano Demo
+Dev Kit: https://developer.nvidia.com/embedded/jetson-nano-developer-kit
+Getting started: https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
+Jetson Inference: https://github.com/dusty-nv/jetson-inference
+
+ML Kit Demo:
+https://github.com/firebase/quickstart-android/tree/master/mlkit
