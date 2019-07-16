@@ -1,0 +1,13 @@
+20190714
+
+1. Read material on this page about "App Basics" and "Core Topics" of Android App
+https://developer.android.com/guide
+
+2. Activity Lifecycle: each app screen is an activity that App system would manage its lifecycle.
+https://developer.android.com/guide/components/activities/activity-lifecycle
+
+3. Create simple app with EditText, TextView and Button
+
+4. Homework: look for and try out examples on ListView, ListActivity and rows on the list:
+https://developer.android.com/reference/android/app/ListActivity
+https://www.vogella.com/tutorials/AndroidListView/article.html
