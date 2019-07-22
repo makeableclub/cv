@@ -1,0 +1,21 @@
+20190714
+
+1. Talked about things around List View in Android App
+https://developer.android.com/reference/android/app/ListActivity
+
+ListView,ItemView
+Layout:  <ListView>, and rowlayout of line item elements in a layout
+Adapters (ArrayAdapter, CustomAdapter, etc)
+Adapter class structure
+Adapter getView() call
+ViewHolder pattern to reuse "inflated" view for performance
+onItemClicked() event handler
+
+2. Homework: read and try out all sections of this tutorials:
+https://www.vogella.com/tutorials/AndroidListView/article.html
+
+3. Homework: reading materials
+Popular android libraries: https://infinum.co/the-capsized-eight/top-10-android-libraries-every-android-developer-should-know-about
+Android networking basics: https://developer.android.com/training/basics/network-ops/connecting
+Square's OkHttp: https://square.github.io/okhttp/
+Tutorial on using OkHttp: https://www.vogella.com/tutorials/JavaLibrary-OkHttp/article.html
