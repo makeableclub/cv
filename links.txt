@@ -30,3 +30,6 @@ https://cloud.google.com/products/ai/
 
 
 https://docs.google.com/spreadsheets/d/1OyMNEeKdKn1IP9UCy3infKScShvGiLqIlzbOJVDP8Fw/edit?usp=sharing
+
+# Really fun and short crash-course coming in your email:
+https://www.pyimagesearch.com/free-opencv-computer-vision-deep-learning-crash-course/
