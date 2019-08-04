@@ -1,4 +1,4 @@
-20190714
+20190721
 
 1. Talked about things around List View in Android App
 https://developer.android.com/reference/android/app/ListActivity
