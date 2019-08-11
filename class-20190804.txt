@@ -10,8 +10,8 @@ https://developer.android.com/guide/webapps
 AsyncTask, and alternative
 https://medium.com/code-yoga/some-great-alternatives-for-asynctasks-e8113747673a
 
-Volley:
-https://developer.android.com/training/vollesy
+Android Volley:
+https://developer.android.com/training/volley
 
 android.net.http (vs. ancient HttpUrlConnection)
 https://www.programcreek.com/java-api-examples/?api=android.net.http.AndroidHttpClient
@@ -23,3 +23,8 @@ Square's OkHttp: https://square.github.io/okhttp/
 Tutorial on using OkHttp:
 https://www.vogella.com/tutorials/JavaLibrary-OkHttp/article.html
 https://www.journaldev.com/13629/okhttp-android-example-tutorial
+
+JSON-Placeholder
+https://jlstrater.github.io/spring-restdocs-public-api-example/#introduction
+example calling: 
+http://jsonplaceholder.typicode.com/posts
