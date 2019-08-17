@@ -1,0 +1,19 @@
+20190818
+
+Google Cloud Functions
+https://cloud.google.com/functions/
+
+// Function quickstart
+https://cloud.google.com/functions/docs/quickstart-console
+
+// trigger processing when a file is uploaded
+https://cloud.google.com/functions/docs/tutorials/storage#functions-prepare-environment-python
+
+// run deep learning model for inference
+https://cloud.google.com/blog/products/ai-machine-learning/how-to-serve-deep-learning-models-using-tensorflow-2-0-with-cloud-functions
+
+// Cloud functions / AI Platform Predictions
+https://cloud.google.com/blog/products/ai-machine-learning/empower-your-ai-platform-trained-serverless-endpoints-with-machine-learning-on-google-cloud-functions
+
+// connect to Cloud SQL database from Functions
+https://cloud.google.com/functions/docs/sql
