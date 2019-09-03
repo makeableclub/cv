@@ -40,3 +40,10 @@ https://cloud.google.com/vision/automl/object-detection/docs/quickstart
 
 # google cloud: object detection application
 https://cloud.google.com/solutions/creating-object-detection-application-tensorflow
+
+# ImageAI for simple code of object detection
+https://github.com/OlafenwaMoses/ImageAI
+https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606
+
+# Google cloud object detection
+https://cloud.google.com/vision/automl/object-detection/docs/
