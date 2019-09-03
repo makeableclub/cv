@@ -33,3 +33,10 @@ https://docs.google.com/spreadsheets/d/1OyMNEeKdKn1IP9UCy3infKScShvGiLqIlzbOJVDP
 
 # Really fun and short crash-course coming in your email:
 https://www.pyimagesearch.com/free-opencv-computer-vision-deep-learning-crash-course/
+
+
+# cloud model creation using AutoML API
+https://cloud.google.com/vision/automl/object-detection/docs/quickstart
+
+# google cloud: object detection application
+https://cloud.google.com/solutions/creating-object-detection-application-tensorflow
