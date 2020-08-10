@@ -1,11 +1,10 @@
 20190811
 
-- AI advantures youtube channel
+- AI advantures youtube channel to know Google ML/AI
 https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2
 
 - good use case examples for using opencv and computer vision
 https://www.pyimagesearch.com/free-opencv-computer-vision-deep-learning-crash-course/
-
 
 - example of image classification of clouds
 https://www.youtube.com/watch?v=_2eG8xpRYZ4

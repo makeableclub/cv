@@ -1,9 +1,14 @@
 20190818
 
+Google Cloud Functions are serverless technologies, to link various components to construct your application.
+
+The following links will get you started on Functions, using file upload to trigger your function to kick off computer-vision processing to understand what's on the image, and save such data into a Cloud SQL database for future reference.
+
+
 Google Cloud Functions
 https://cloud.google.com/functions/
 
-// Function quickstart
+// Function quickstart, using HTTP to trigger
 https://cloud.google.com/functions/docs/quickstart-console
 
 // trigger processing when a file is uploaded
@@ -17,3 +22,6 @@ https://cloud.google.com/blog/products/ai-machine-learning/empower-your-ai-platf
 
 // connect to Cloud SQL database from Functions
 https://cloud.google.com/functions/docs/sql
+
+// information about MySQL setup as Cloud SQL
+https://cloud.google.com/sql/docs/mysql/quickstart
